@@ -3,8 +3,8 @@
 An interactive Power BI dashboard analyzing hotel performance across **cities, properties, and booking platforms**.  
 Tracks KPIs such as **Revenue, RevPAR, Occupancy %, ADR, and Realisation %**, with insights into customer segments, cancellations, and property-level trends.  
 
-![Dashboard Preview 1](assets/SS_1.png)  
-![Dashboard Preview 2](assets/SS_2.png) 
+![Dashboard Preview 1](Assets/SS_1.png)  
+![Dashboard Preview 2](Assets/SS_2.png) 
 
 ---
 
